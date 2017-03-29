@@ -1,3 +1,4 @@
 arquivo inicial no git
 alterei o arquivo
 alterei com o -a, que da comit imediato
+123
